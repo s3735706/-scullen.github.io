@@ -40,3 +40,83 @@ img {
 	 margin-right: auto;
 	 width: 50%;
 }
+body {
+
+	background-color:gainsboro;
+
+}
+
+
+
+h2{
+	color: black;
+}
+
+h3{
+	color: black;
+}
+
+p{
+	font-family: arial;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+		
+	
+
+.center {
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 90%;
+	
+}
+
+img {
+	width: 20%;
+	height:10%;
+}
+
+	
+.middle	{
+	 display:block;
+	 margin-left: 20%;
+	 margin-right: 20%;
+	 width: 20%;
+	 border-style: solid;
+	 border-left: 30%;
+	 border-right:30%;
+	 border-bottom: 30%;
+	 border-top:30%;
+	 border-color: black;
+}
+
+
+img{
+	width: 40%;
+	height:20%;
+}
+.medium2{
+
+		border-style: solid;
+		border-left: 50%;
+		border-right: 50%;
+		border-bottom: 50%;
+		border-top: 50%
+		border-color: blue;
+}
+.learning1{
+		width: 40%
+		height: 20%;
+
+		border-style: solid;
+		border-left: 50%;
+		border-right: 50%;
+		border-top: 50%
+		border-bottom:50%;
+		border-color: black;
+}
